@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "firstName": "Sungur",
+      "surname": "Gasanov",
+      "type": 1,
+      "phone": "89776523344"
+    },
+    {
+      "id": 2,
+      "firstName": "Daniil",
+      "surname": "Alexseev",
+      "type": 2,
+      "phone": "89113334555"
+    },
+    {
+      "id": 3,
+      "firstName": "Rufina",
+      "surname": "Gat",
+      "type": 3,
+      "phone": "89446772233"
+    },
+    {
+      "id": "0",
+      "firstName": "safasf",
+      "surname": "asfasf",
+      "type": 0,
+      "phone": "9998882223"
+    },
+    {
+      "id": "5",
+      "firstName": "asfsdf",
+      "surname": "dsgsdg",
+      "type": 0,
+      "phone": "8889992323"
+    },
+    {
+      "id": "6",
+      "firstName": "Sergey ",
+      "surname": "Tem",
+      "type": 1,
+      "phone": "9223887766"
+    },
+    {
+      "id": "7",
+      "firstName": "Mihail",
+      "surname": "Zlat",
+      "type": 1,
+      "phone": "8889992233"
+    },
+    {
+      "id": "8",
+      "firstName": "Lexa",
+      "surname": "Oznob",
+      "type": 0,
+      "phone": "9774632983"
+    }
+  ]
+}
